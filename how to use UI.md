@@ -38,14 +38,17 @@ This tutorial guides you through creating agents and teams with Microsoft Autoge
 
 ![alt text](image.png)
 
-    5. Select Gallery 
+    5. Select Gallery
 
-    ![alt text](image-1.png)
+![alt text](image-1.png)
 
     6. Models -> Add Model
-    ![alt text](image-2.png)
 
-    7. Switch to JSON Editor ![alt text](image-3.png)
+![alt text](image-2.png)
+
+7. Switch to JSON Editor
+
+![alt text](image-3.png)
 
     8. Add the following details, in place of default OpenAI values: 
 
@@ -67,8 +70,6 @@ This tutorial guides you through creating agents and teams with Microsoft Autoge
         }
     }
     ```
-
-    ![alt text](image-4.png)
 
 
 
