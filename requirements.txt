@@ -1,2 +1,4 @@
-autogen
+autogen-agentchat
 qwen3-autogen-client
+autogen-ext[openai]
+autogenstudio

@@ -1,0 +1,6 @@
+{
+    // Use the .venv Python interpreter for this workspace
+    "python.defaultInterpreterPath": ".venv/bin/python",
+    // Optional: legacy setting
+    "python.pythonPath": ".venv/bin/python"
+}
