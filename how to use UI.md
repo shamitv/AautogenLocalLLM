@@ -50,26 +50,27 @@ This tutorial guides you through creating agents and teams with Microsoft Autoge
 
 ![alt text](image-3.png)
 
-    8. Add the following details, in place of default OpenAI values: 
+8. Add the following details, in place of default OpenAI values, Test and save changes: 
 
     ```json
     {
-        "name": "assistant_agent",
-        "model_client": {
-            "provider": "qwen3_autogen_client.QwenOpenAIChatCompletionClient",
-            "component_type": "model",
-            "version": 1,
-            "component_version": 1,
-            "description": "Qwen3-4B local",
-            "label": "Qwen3-4B",
-            "config": {
-                "model": "Qwen3-4B",
-                "api_key": "None",
-                "base_url": "http://localhost:8090/v1"
-            }
-        }
+      "provider": "qwen3_autogen_client.QwenOpenAIChatCompletionClient",
+      "component_type": "model",
+      "version": 1,
+      "component_version": 1,
+      "description": "Qwen3-4B local",
+      "label": "Qwen3-4B",
+      "config": {
+        "model": "Qwen3-4B",
+        "api_key": "None",
+        "base_url": "http://localhost:8090/v1"
+      }
     }
     ```
+![img.png](img.png)
+
+![img_1.png](img_1.png)
+
 
 
 
